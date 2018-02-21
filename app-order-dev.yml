@@ -22,7 +22,7 @@ eureka:
   instance:
     prefer-ip-address: true
     metadata-map:
-      key01: value01
+      key01: '{cipher}45525d29114aecb9841fe1655bd1750946cd8cca0b820c394f6b3545e5b5ec3f'
       key02: value02
 
 feign:
